@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-02T01:36:32.254Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="BIUr_vVEIhmsy65mOCr7" version="12.3.3" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-12-02T01:37:36.099Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="GrIHVRN5ONSIDTbjhcRn" version="12.3.3" type="github" pages="1">
   <diagram id="QQrYUkOmVCpKORpGYfzp" name="Page-1">
     <mxGraphModel dx="1933" dy="591" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -188,11 +188,6 @@
         </mxCell>
         <mxCell id="TYlXN2TkYNNjVjIwqK4V-103" value="读写数据" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;autosize=1;" parent="1" vertex="1">
           <mxGeometry x="321" y="623" width="60" height="20" as="geometry"/>
-        </mxCell>
-        <mxCell id="TYlXN2TkYNNjVjIwqK4V-8" value="" style="shape=component;jettyWidth=8;jettyHeight=4;" parent="1" vertex="1">
-          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
-            <mxPoint x="-27" y="7" as="offset"/>
-          </mxGeometry>
         </mxCell>
         <mxCell id="TYlXN2TkYNNjVjIwqK4V-9" value="调度管理" style="html=1;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="162" y="690" width="310" height="287.32563025210084" as="geometry"/>
