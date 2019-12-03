@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-03T05:38:05.080Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="_x0hMX3PgnF0uQASjMpU" version="12.3.5" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-12-03T05:41:27.540Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="ufcccCGNR1XapaBz1ERp" version="12.3.5" type="github" pages="1">
   <diagram id="QTBbV0IeW6AjLZjwrkCB" name="Page-1">
     <mxGraphModel dx="1106" dy="591" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
@@ -99,6 +99,9 @@
           <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
             <mxPoint x="-27" y="7" as="offset"/>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="6uVbIui6uLnQDiQB7IlJ-27" value="构件是定义良好的接口实现单元，它可以是以下几种类型：&lt;br&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;1.源代码文件；&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;2.二进制构件（目标码文件、静态链接库、动态链接库）&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;3. 可执行文件（可执行程序）&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;4. 数据文件或文档&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="610" width="330" height="80" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
