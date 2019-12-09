@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2019-12-09T05:44:43.241Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="5qhuaQoSsF8VeLn_HA1k" version="12.3.8" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-12-09T05:45:08.518Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="6HtHRiqY_ga9xF38zb5E" version="12.3.8" type="github" pages="1">
   <diagram id="chd-_1vZpwjyEAbryY5L" name="Page-1">
-    <mxGraphModel dx="1106" dy="591" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
+    <mxGraphModel dx="1558" dy="625" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
@@ -47,7 +47,7 @@
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
         <mxCell id="_3WzLPk9sT4NRN_hze6i-13" value="借阅记录" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
-          <mxGeometry x="632" y="295" width="160" height="114" as="geometry"/>
+          <mxGeometry x="628" y="294" width="160" height="114" as="geometry"/>
         </mxCell>
         <mxCell id="_3WzLPk9sT4NRN_hze6i-14" value="+ 书号&#xa;+ 借阅人&#xa;+ 借阅时间" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="_3WzLPk9sT4NRN_hze6i-13">
           <mxGeometry y="26" width="160" height="54" as="geometry"/>
